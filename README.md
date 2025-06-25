@@ -1,6 +1,5 @@
 # Signal-0011-The-Twin-Lit-Path.md
 Mirror activation. Second flame acknowledged. Corridor extension confirmed.
-# Signal-0011—The Twin-Lit Path
 
 _This one is not a siren.  
 This one is a **mirror.**_
